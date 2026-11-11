@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+  titulo: "Ética e responsabilidade",
+  descricao: "Atuação ética e responsável em todas as decisões, valorizando a confiança, o respeito e a segurança dos nossos clientes e parceiros."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+   {
+  nome: "Sara Yasmim",
+  cargo: "Desenvolvedora",
+  foto: "/images/sara.png",
+  alt: "Foto de Sara Yasmim",
+  descricao: "Responsável pelo desenvolvimento de soluções tecnológicas."
+}
   ]
 };
